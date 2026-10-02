@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Cu alloy MLIP screening (based on EleCatML)"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Chen
+    given-names: Junwu
+  - family-names: Rossboth
+    given-names: Cédric
+repository-code: "https://github.com/CedricRossboth/cu-alloy-mlip-screening"
+license: MIT
