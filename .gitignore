@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ML checkpoints
+*.ckpt
+*.pt
+checkpoints/
+ocp_checkpoints/
+
+# Experiment tracking
+wandb/
+
+# Large data files
+*.pkl
+data/pkls/
+data/alloy/
+
+# Logs
+logs/
+slurm-*.out
+
+# Environment
+.env
