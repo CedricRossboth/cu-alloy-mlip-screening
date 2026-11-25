@@ -70,7 +70,8 @@ See `data/README.md` for details on included vs. generated data files.
 
 ## Context
 
-CH-492 Project in molecular sciences Ia (MA1, autumn 2025), Master in Biological and molecular chemistry at EPFL, conducted in collaboration with the [Laboratory of Inorganic Artificial Catalysis (LIAC)](https://www.epfl.ch/labs/liac/). Full write-up in the [report](docs/Project_Ia_Rossboth_Cedric.pdf).
+CH-492 Project in molecular sciences Ia (MA1, autumn 2025), MSc in Molecular and Biological Chemistry at EPFL, carried out in the [Laboratory of Artificial Chemical Intelligence (LIAC)](https://www.epfl.ch/labs/liac/). Full write-up in the [report](docs/Project_Ia_Rossboth_Cedric.pdf).
+
 
 This project builds on **EleCatML**, a workflow developed by
 [Junwu Chen](https://github.com/jwchen25) for screening electrocatalytic
@@ -83,7 +84,7 @@ C–C coupling reactions with machine-learned interatomic potentials.
 - NEB path visualization, multiprocessing version, result reloading
 - HPC batch scripts and environments
 
-**Cédric Rossboth** — Cu bimetallic alloy study (2025, summer 5-week project)
+**Cédric Rossboth** — Cu bimetallic alloy study (summer 2025 during 5 weeks, credited as CH-492)
 - More robust IDPP interpolation, multiple-pathway screening, and faster NEB
   with a SafeLBFGS optimizer
 - Parameter-screening script
